@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Netflix WELCOME Page | CodingNepal</title>
+    <title>Netflix Welcome Page | CodingNepal</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
